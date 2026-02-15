@@ -1,6 +1,35 @@
 # 💫 About Me:
- DevOps Engineer with 2 years of experience specializing in Cloud Automation and Container Orchestration. Expert in transforming manual workflows into declarative Terraform and Ansible architectures, while managing high-availability clusters across Kubernetes and Docker Swarm . Proven track record of reducing deployment times by 70 % through optimized CI/CD and GitOps best practices.
+I am a passionate DevOps & Cloud Engineer focused on building reliable, scalable, and automated infrastructure. I enjoy designing systems that improve deployment speed, enhance reliability, and support modern cloud-native applications.
 
+With a strong interest in automation, CI/CD, and infrastructure as code, I strive to bridge the gap between development and operations by creating efficient, secure, and resilient environments.
+
+🚀 What I Do
+
+- Design and manage cloud infrastructure and scalable environments
+- Build and maintain CI/CD pipelines for automated testing and deployment
+- Implement Infrastructure as Code (IaC) for consistent and repeatable setups
+- Monitor systems to ensure performance, reliability, and uptime
+- Optimize deployment workflows and improve system resilience
+
+☁️ DevOps & Cloud Focus
+
+- Cloud platforms and containerized environments
+- Automation and configuration management
+- Continuous integration & continuous delivery
+- System monitoring and performance optimization
+- Security best practices and reliability engineering
+
+🛠️ Tools & Technologies
+
+- Docker & Kubernetes
+- Terraform / Ansible
+- Git & GitHub Actions / GitLab CI
+- Linux & Shell scripting
+- AWS / Azure / GCP
+- Prometheus, Grafana
+
+🎯 Goals
+I aim to build cloud-native systems that are efficient, automated, and highly available, while continuously learning new technologies and best practices in the DevOps ecosystem.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ubioworoisaiah) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rukydevops) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rukevwe Ubioworo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ubiorukevwe@gmail.com) 
